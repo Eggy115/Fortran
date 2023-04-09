@@ -1,6 +1,6 @@
 # Fortran
 
-[![GPL-3.0 License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/<username>/<repository>/blob/main/LICENSE)
+[![GPL-3.0 License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/Eggy115/Fortran/blob/main/LICENSE)
 
 This repository contains Fortran programs and scripts for <insert purpose>. All programs are released under the GPL-3.0 license.
 
